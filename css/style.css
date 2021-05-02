@@ -1,0 +1,11 @@
+.foto{
+    height: 125px ;
+    width: 125px ;
+    border-radius:100% ;
+    align-items: center;
+    margin-top: 10px ;
+}
+.foto-box{
+
+    text-align: center;
+}
